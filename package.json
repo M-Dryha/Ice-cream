@@ -6,7 +6,7 @@
   "homepage": "https://M-Dryha.github.io/Ice-cream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-15-iceCream/"
+    "build": "parcel build src/*.html --public-url /Ice-cream/"
   },
   "repository": {
     "type": "git",
